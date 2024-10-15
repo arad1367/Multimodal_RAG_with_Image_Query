@@ -1,0 +1,9 @@
+spaces # Delete this one for local use
+gradio
+byaldi
+pdf2image 
+git+https://github.com/huggingface/transformers.git 
+qwen-vl-utils 
+torchvision
+torch
+poppler-utils # Delete this one for Hugging Face deployment
